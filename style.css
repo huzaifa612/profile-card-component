@@ -38,7 +38,7 @@ body::after {
   height: 18.75rem;
 }
 .card{
-    width: 21.875rem;
+    width: 17.875rem;
     height: 23.125rem;
     background-color: #fff;
     background-image: url("images/bg-pattern-card.svg");
