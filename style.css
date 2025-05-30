@@ -25,18 +25,18 @@ body::before, body::after{
 }
 /* Top-left circle */
 body::before {
-  top: -6.25rem;
-  left: -6.25rem;
-  width: 12.5rem;
-  height: 12.5rem;
+  top: -15vw;
+  left: -15vw;
+  width: 30vw;
+  height: 30vw;
 }
 
 /* Bottom-right circle */
 body::after {
-  bottom: -9.375rem;
-  right: -9.375rem;
-  width: 18.75rem;
-  height: 18.75rem;
+  bottom: -20vw;
+  right: -20vw;
+  width: 40vw;
+  height: 40vw;
 }
 .card{
     width: 21.875rem;
